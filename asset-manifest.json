@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ju-Takeshi/Portfolio.gi/static/css/main.e4a958d6.css",
+    "main.js": "/Ju-Takeshi/Portfolio.gi/static/js/main.da19c0f5.js",
+    "static/media/PublicSans-Medium.ttf": "/Ju-Takeshi/Portfolio.gi/static/media/PublicSans-Medium.1c3ccd93d7d57ea4d2a9.ttf",
+    "index.html": "/Ju-Takeshi/Portfolio.gi/index.html",
+    "main.e4a958d6.css.map": "/Ju-Takeshi/Portfolio.gi/static/css/main.e4a958d6.css.map",
+    "main.da19c0f5.js.map": "/Ju-Takeshi/Portfolio.gi/static/js/main.da19c0f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a958d6.css",
+    "static/js/main.da19c0f5.js"
+  ]
+}
